@@ -17,7 +17,7 @@ Python 3.X
 ```
 
 ## Current Status
-Still Working On This
+Not Finished
 
 ## Reference
 https://github.com/breizhn/DTLN-aec
